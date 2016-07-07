@@ -1,0 +1,580 @@
+Education	naics2	occp	pct	earn	FREQ
+All education categories	Accommodation and Food Services	All occupations	0.071159784	22000	12719
+All education categories	Administrative and Support and Waste Management and Remediation Services	All occupations	0.037075879	32000	7155
+All education categories	Arts, Entertainment, and Recreation	All occupations	0.021388998	38000	4451
+All education categories	Construction	All occupations	0.050960446	43000	9700
+All education categories	Educational Services	All occupations	0.093061995	50000	21068
+All education categories	Finance and Insurance	All occupations	0.088505382	99000	19356
+All education categories	Health Care and Social Assistance	All occupations	0.164607888	39000	34534
+All education categories	Information	All occupations	0.042541169	68000	9123
+All education categories	Management of Companies and Enterprises	All occupations	0.000818753	69000	180
+All education categories	Manufacturing	All occupations	0.037667442	39000	7841
+All education categories	Other Services (except Public Administration)	All occupations	0.046070348	27000	9205
+All education categories	Professional, Scientific, and Technical Services	All occupations	0.095353366	76000	20280
+All education categories	Public Administration	All occupations	0.048305063	67000	10619
+All education categories	Real Estate and Rental and Leasing	All occupations	0.029890094	45000	5807
+All education categories	Retail Trade	All occupations	0.09150167	25000	17791
+All education categories	Transportation and Warehousing	All occupations	0.053225244	45000	10994
+All education categories	Utilities	All occupations	0.004353497	77000	1008
+All education categories	Wholesale Trade	All occupations	0.023512982	46000	5090
+Bachelor's or advanced degree	Accommodation and Food Services	All occupations	0.028120304	33000	2451
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	All occupations	0.020854459	50000	2025
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	All occupations	0.024806376	51000	2416
+Bachelor's or advanced degree	Construction	All occupations	0.018429808	67000	1868
+Bachelor's or advanced degree	Educational Services	All occupations	0.142523594	61000	15039
+Bachelor's or advanced degree	Finance and Insurance	All occupations	0.1470066	119000	14933
+Bachelor's or advanced degree	Health Care and Social Assistance	All occupations	0.152110592	62000	15559
+Bachelor's or advanced degree	Information	All occupations	0.066324343	77000	6626
+Bachelor's or advanced degree	Management of Companies and Enterprises	All occupations	0.001239268	84000	123
+Bachelor's or advanced degree	Manufacturing	All occupations	0.026981133	77000	2807
+Bachelor's or advanced degree	Other Services (except Public Administration)	All occupations	0.030761716	49000	3215
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	All occupations	0.163403862	84000	15986
+Bachelor's or advanced degree	Public Administration	All occupations	0.050934678	78000	5430
+Bachelor's or advanced degree	Real Estate and Rental and Leasing	All occupations	0.022831987	64000	2165
+Bachelor's or advanced degree	Retail Trade	All occupations	0.056194047	51000	5341
+Bachelor's or advanced degree	Transportation and Warehousing	All occupations	0.023014917	57000	2374
+Bachelor's or advanced degree	Utilities	All occupations	0.00359155	86000	394
+Bachelor's or advanced degree	Wholesale Trade	All occupations	0.020870764	68000	2168
+High school or equivalent, no college	Accommodation and Food Services	All occupations	0.105084624	22000	3615
+High school or equivalent, no college	Administrative and Support and Waste Management and Remediation Services	All occupations	0.057399037	27000	2065
+High school or equivalent, no college	Arts, Entertainment, and Recreation	All occupations	0.017015635	27000	687
+High school or equivalent, no college	Construction	All occupations	0.090755431	43000	3307
+High school or equivalent, no college	Educational Services	All occupations	0.045572973	26000	1994
+High school or equivalent, no college	Finance and Insurance	All occupations	0.031996433	47000	1339
+High school or equivalent, no college	Health Care and Social Assistance	All occupations	0.170815717	28000	6645
+High school or equivalent, no college	Information	All occupations	0.017436362	47000	703
+High school or equivalent, no college	Manufacturing	All occupations	0.04691007	30000	1903
+High school or equivalent, no college	Other Services (except Public Administration)	All occupations	0.066067919	23000	2427
+High school or equivalent, no college	Professional, Scientific, and Technical Services	All occupations	0.028652873	44000	1221
+High school or equivalent, no college	Public Administration	All occupations	0.032997929	46000	1388
+High school or equivalent, no college	Real Estate and Rental and Leasing	All occupations	0.040512008	40000	1472
+High school or equivalent, no college	Retail Trade	All occupations	0.124980837	22000	4632
+High school or equivalent, no college	Transportation and Warehousing	All occupations	0.090748287	42000	3527
+High school or equivalent, no college	Utilities	All occupations	0.005594374	74000	245
+High school or equivalent, no college	Wholesale Trade	All occupations	0.027110823	34000	1093
+Less than high school	Accommodation and Food Services	All occupations	0.182962236	19000	3348
+Less than high school	Administrative and Support and Waste Management and Remediation Services	All occupations	0.06001224	21000	1198
+Less than high school	Arts, Entertainment, and Recreation	All occupations	0.014880363	18000	316
+Less than high school	Construction	All occupations	0.10979959	26000	2019
+Less than high school	Educational Services	All occupations	0.028397013	22000	721
+Less than high school	Finance and Insurance	All occupations	0.008004515	36000	207
+Less than high school	Health Care and Social Assistance	All occupations	0.16164803	20000	3519
+Less than high school	Information	All occupations	0.007719946	25000	180
+Less than high school	Manufacturing	All occupations	0.071583474	20000	1483
+Less than high school	Other Services (except Public Administration)	All occupations	0.082271066	17000	1605
+Less than high school	Professional, Scientific, and Technical Services	All occupations	0.011398645	26000	270
+Less than high school	Public Administration	All occupations	0.010026062	33000	248
+Less than high school	Real Estate and Rental and Leasing	All occupations	0.034209239	31000	686
+Less than high school	Retail Trade	All occupations	0.124686235	18000	2517
+Less than high school	Transportation and Warehousing	All occupations	0.060402506	28000	1314
+Less than high school	Wholesale Trade	All occupations	0.029987642	24000	642
+Some college or Associate degree	Accommodation and Food Services	All occupations	0.075510117	24000	3305
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	All occupations	0.041341596	33000	1867
+Some college or Associate degree	Arts, Entertainment, and Recreation	All occupations	0.02136133	27000	1032
+Some college or Associate degree	Construction	All occupations	0.054268083	53000	2506
+Some college or Associate degree	Educational Services	All occupations	0.065174937	28000	3314
+Some college or Associate degree	Finance and Insurance	All occupations	0.057712095	54000	2877
+Some college or Associate degree	Health Care and Social Assistance	All occupations	0.185729689	36000	8811
+Some college or Associate degree	Information	All occupations	0.032836014	56000	1614
+Some college or Associate degree	Manufacturing	All occupations	0.035136855	43000	1648
+Some college or Associate degree	Other Services (except Public Administration)	All occupations	0.042517255	28000	1958
+Some college or Associate degree	Professional, Scientific, and Technical Services	All occupations	0.055783462	51000	2803
+Some college or Associate degree	Public Administration	All occupations	0.074225643	64000	3553
+Some college or Associate degree	Real Estate and Rental and Leasing	All occupations	0.032899242	44000	1484
+Some college or Associate degree	Retail Trade	All occupations	0.117900742	21000	5301
+Some college or Associate degree	Transportation and Warehousing	All occupations	0.078244822	51000	3779
+Some college or Associate degree	Utilities	All occupations	0.00610955	71000	331
+Some college or Associate degree	Wholesale Trade	All occupations	0.022667462	46000	1187
+All education categories	Accommodation and Food Services	Building and grounds cleaning and maintenance	0.075228272	29000	1015
+All education categories	Accommodation and Food Services	Business and financial operations	0.007532857	53000	115
+All education categories	Accommodation and Food Services	Food preparation and serving related	0.62342853	21000	7621
+All education categories	Accommodation and Food Services	Management	0.096127376	55000	1340
+All education categories	Accommodation and Food Services	Office and administrative support	0.045167677	29000	643
+All education categories	Accommodation and Food Services	Personal care and service	0.016035869	31000	206
+All education categories	Accommodation and Food Services	Production	0.010059677	25000	131
+All education categories	Accommodation and Food Services	Sales and related	0.0733843	13000	996
+All education categories	Accommodation and Food Services	Transportation and material moving	0.035856583	17000	394
+All education categories	Administrative and Support and Waste Management and Remediation Services	Building and grounds cleaning and maintenance	0.29934427	25000	1957
+All education categories	Administrative and Support and Waste Management and Remediation Services	Business and financial operations	0.059325693	56000	435
+All education categories	Administrative and Support and Waste Management and Remediation Services	Computer and mathematical	0.013113517	72000	120
+All education categories	Administrative and Support and Waste Management and Remediation Services	Healthcare practitioners and technical	0.013897696	46000	109
+All education categories	Administrative and Support and Waste Management and Remediation Services	Installation, maintenance and repair	0.024175769	44000	193
+All education categories	Administrative and Support and Waste Management and Remediation Services	Management	0.077270448	77000	603
+All education categories	Administrative and Support and Waste Management and Remediation Services	Office and administrative support	0.125645914	31000	968
+All education categories	Administrative and Support and Waste Management and Remediation Services	Production	0.017393328	31000	127
+All education categories	Administrative and Support and Waste Management and Remediation Services	Protective service	0.213832873	25000	1482
+All education categories	Administrative and Support and Waste Management and Remediation Services	Sales and related	0.048048091	38000	383
+All education categories	Administrative and Support and Waste Management and Remediation Services	Transportation and material moving	0.046788619	38000	325
+All education categories	Arts, Entertainment, and Recreation	Arts, design, entertainment, sports, and media	0.246284541	47000	1036
+All education categories	Arts, Entertainment, and Recreation	Building and grounds cleaning and maintenance	0.077431238	22000	304
+All education categories	Arts, Entertainment, and Recreation	Business and financial operations	0.070312338	61000	312
+All education categories	Arts, Entertainment, and Recreation	Education, training, and library	0.039144525	43000	190
+All education categories	Arts, Entertainment, and Recreation	Food preparation and serving related	0.028541587	20000	126
+All education categories	Arts, Entertainment, and Recreation	Management	0.088712886	76000	444
+All education categories	Arts, Entertainment, and Recreation	Office and administrative support	0.08184473	30000	376
+All education categories	Arts, Entertainment, and Recreation	Personal care and service	0.153976385	22000	676
+All education categories	Arts, Entertainment, and Recreation	Protective service	0.055629606	28000	245
+All education categories	Arts, Entertainment, and Recreation	Sales and related	0.066013849	35000	313
+All education categories	Arts, Entertainment, and Recreation	Transportation and material moving	0.021077676	44000	106
+All education categories	Construction	Architecture and engineering	0.020160601	79000	226
+All education categories	Construction	Business and financial operations	0.019930334	75000	220
+All education categories	Construction	Construction and extraction	0.718064937	38000	6640
+All education categories	Construction	Installation, maintenance and repair	0.040111509	43000	413
+All education categories	Construction	Management	0.103567789	78000	1156
+All education categories	Construction	Office and administrative support	0.045650571	39000	514
+All education categories	Construction	Production	0.015252993	46000	149
+All education categories	Construction	Transportation and material moving	0.015447651	49000	160
+All education categories	Educational Services	Arts, design, entertainment, sports, and media	0.013003642	43000	258
+All education categories	Educational Services	Building and grounds cleaning and maintenance	0.029637991	36000	552
+All education categories	Educational Services	Business and financial operations	0.02138863	56000	435
+All education categories	Educational Services	Community and social service	0.030952221	55000	665
+All education categories	Educational Services	Computer and mathematical	0.014061786	57000	299
+All education categories	Educational Services	Education, training, and library	0.597002793	52000	12537
+All education categories	Educational Services	Food preparation and serving related	0.014757682	22000	300
+All education categories	Educational Services	Healthcare practitioners and technical	0.023005744	66000	534
+All education categories	Educational Services	Installation, maintenance and repair	0.005006901	59000	109
+All education categories	Educational Services	Life, physical, and social sciences	0.020596972	55000	419
+All education categories	Educational Services	Management	0.095621616	82000	2084
+All education categories	Educational Services	Office and administrative support	0.087798199	33000	1908
+All education categories	Educational Services	Personal care and service	0.015841824	19000	320
+All education categories	Educational Services	Protective service	0.011006948	36000	211
+All education categories	Educational Services	Transportation and material moving	0.005591003	27000	118
+All education categories	Finance and Insurance	Arts, design, entertainment, sports, and media	0.005507976	92000	106
+All education categories	Finance and Insurance	Business and financial operations	0.253560092	103000	4913
+All education categories	Finance and Insurance	Computer and mathematical	0.095080364	104000	1891
+All education categories	Finance and Insurance	Legal	0.023094864	184000	446
+All education categories	Finance and Insurance	Management	0.244144273	137000	4787
+All education categories	Finance and Insurance	Office and administrative support	0.182292647	44000	3415
+All education categories	Finance and Insurance	Sales and related	0.174293802	111000	3360
+All education categories	Health Care and Social Assistance	Arts, design, entertainment, sports, and media	0.003058996	41000	119
+All education categories	Health Care and Social Assistance	Building and grounds cleaning and maintenance	0.028133841	31000	889
+All education categories	Health Care and Social Assistance	Business and financial operations	0.015905209	53000	598
+All education categories	Health Care and Social Assistance	Community and social service	0.070256456	43000	2410
+All education categories	Health Care and Social Assistance	Computer and mathematical	0.008583903	71000	310
+All education categories	Health Care and Social Assistance	Education, training, and library	0.025967043	26000	950
+All education categories	Health Care and Social Assistance	Food preparation and serving related	0.013011816	26000	434
+All education categories	Health Care and Social Assistance	Healthcare practitioners and technical	0.276731914	72000	10195
+All education categories	Health Care and Social Assistance	Healthcare support	0.240071493	25000	7636
+All education categories	Health Care and Social Assistance	Installation, maintenance and repair	0.003866676	49000	127
+All education categories	Health Care and Social Assistance	Life, physical, and social sciences	0.014523798	57000	519
+All education categories	Health Care and Social Assistance	Management	0.065950541	72000	2400
+All education categories	Health Care and Social Assistance	Office and administrative support	0.128472175	35000	4456
+All education categories	Health Care and Social Assistance	Personal care and service	0.077202461	18000	2491
+All education categories	Health Care and Social Assistance	Production	0.004119735	40000	162
+All education categories	Health Care and Social Assistance	Protective service	0.008483954	38000	287
+All education categories	Health Care and Social Assistance	Sales and related	0.003147431	55000	106
+All education categories	Health Care and Social Assistance	Transportation and material moving	0.006723323	26000	241
+All education categories	Information	Architecture and engineering	0.017062177	79000	172
+All education categories	Information	Arts, design, entertainment, sports, and media	0.324119758	67000	2863
+All education categories	Information	Business and financial operations	0.057797178	79000	554
+All education categories	Information	Computer and mathematical	0.066695104	84000	645
+All education categories	Information	Education, training, and library	0.020468926	50000	202
+All education categories	Information	Installation, maintenance and repair	0.047773149	72000	418
+All education categories	Information	Management	0.177382188	100000	1654
+All education categories	Information	Office and administrative support	0.129944595	41000	1166
+All education categories	Information	Production	0.017011939	64000	176
+All education categories	Information	Sales and related	0.094802197	66000	844
+All education categories	Information	Transportation and material moving	0.011649676	49000	100
+All education categories	Manufacturing	Architecture and engineering	0.024508004	67000	202
+All education categories	Manufacturing	Arts, design, entertainment, sports, and media	0.048041811	62000	413
+All education categories	Manufacturing	Business and financial operations	0.04341063	72000	371
+All education categories	Manufacturing	Computer and mathematical	0.020626205	77000	172
+All education categories	Manufacturing	Construction and extraction	0.015289535	41000	109
+All education categories	Manufacturing	Installation, maintenance and repair	0.024926587	42000	201
+All education categories	Manufacturing	Management	0.147832734	94000	1220
+All education categories	Manufacturing	Office and administrative support	0.106253807	37000	921
+All education categories	Manufacturing	Production	0.375439325	26000	2750
+All education categories	Manufacturing	Sales and related	0.084568832	52000	690
+All education categories	Manufacturing	Transportation and material moving	0.068092063	24000	477
+All education categories	Other Services (except Public Administration)	Arts, design, entertainment, sports, and media	0.024529009	41000	262
+All education categories	Other Services (except Public Administration)	Building and grounds cleaning and maintenance	0.086160506	16000	727
+All education categories	Other Services (except Public Administration)	Business and financial operations	0.047771347	61000	505
+All education categories	Other Services (except Public Administration)	Community and social service	0.076400195	37000	899
+All education categories	Other Services (except Public Administration)	Computer and mathematical	0.011053984	60000	115
+All education categories	Other Services (except Public Administration)	Education, training, and library	0.011250923	32000	120
+All education categories	Other Services (except Public Administration)	Healthcare support	0.014270659	24000	139
+All education categories	Other Services (except Public Administration)	Installation, maintenance and repair	0.093869148	31000	774
+All education categories	Other Services (except Public Administration)	Management	0.089552239	71000	914
+All education categories	Other Services (except Public Administration)	Office and administrative support	0.093855144	32000	971
+All education categories	Other Services (except Public Administration)	Personal care and service	0.261503006	19000	2201
+All education categories	Other Services (except Public Administration)	Production	0.059880926	21000	490
+All education categories	Other Services (except Public Administration)	Sales and related	0.030445065	33000	301
+All education categories	Other Services (except Public Administration)	Transportation and material moving	0.065870507	22000	489
+All education categories	Professional, Scientific, and Technical Services	Architecture and engineering	0.055816155	75000	1147
+All education categories	Professional, Scientific, and Technical Services	Arts, design, entertainment, sports, and media	0.10660321	61000	2084
+All education categories	Professional, Scientific, and Technical Services	Business and financial operations	0.169355732	78000	3461
+All education categories	Professional, Scientific, and Technical Services	Computer and mathematical	0.101254399	82000	1991
+All education categories	Professional, Scientific, and Technical Services	Healthcare practitioners and technical	0.006503744	56000	129
+All education categories	Professional, Scientific, and Technical Services	Legal	0.170738185	116000	3429
+All education categories	Professional, Scientific, and Technical Services	Life, physical, and social sciences	0.013113635	61000	282
+All education categories	Professional, Scientific, and Technical Services	Management	0.161754992	103000	3313
+All education categories	Professional, Scientific, and Technical Services	Office and administrative support	0.146850385	46000	3092
+All education categories	Professional, Scientific, and Technical Services	Production	0.006839525	39000	154
+All education categories	Professional, Scientific, and Technical Services	Sales and related	0.034320264	74000	683
+All education categories	Public Administration	Architecture and engineering	0.010693696	72000	136
+All education categories	Public Administration	Arts, design, entertainment, sports, and media	0.014588005	76000	155
+All education categories	Public Administration	Building and grounds cleaning and maintenance	0.014578822	33000	146
+All education categories	Public Administration	Business and financial operations	0.074233952	76000	833
+All education categories	Public Administration	Community and social service	0.03534012	51000	355
+All education categories	Public Administration	Computer and mathematical	0.028007299	77000	334
+All education categories	Public Administration	Construction and extraction	0.009679423	71000	112
+All education categories	Public Administration	Healthcare practitioners and technical	0.026821894	62000	280
+All education categories	Public Administration	Installation, maintenance and repair	0.011309773	71000	130
+All education categories	Public Administration	Legal	0.060337991	91000	679
+All education categories	Public Administration	Life, physical, and social sciences	0.012910071	77000	163
+All education categories	Public Administration	Management	0.086393545	89000	941
+All education categories	Public Administration	Office and administrative support	0.181340377	46000	1913
+All education categories	Public Administration	Protective service	0.382315081	79000	3903
+All education categories	Public Administration	Transportation and material moving	0.012906732	51000	139
+All education categories	Real Estate and Rental and Leasing	Building and grounds cleaning and maintenance	0.177314887	33000	921
+All education categories	Real Estate and Rental and Leasing	Business and financial operations	0.038334671	72000	270
+All education categories	Real Estate and Rental and Leasing	Construction and extraction	0.033020567	56000	212
+All education categories	Real Estate and Rental and Leasing	Installation, maintenance and repair	0.03554878	44000	188
+All education categories	Real Estate and Rental and Leasing	Management	0.235080642	63000	1402
+All education categories	Real Estate and Rental and Leasing	Office and administrative support	0.127952674	37000	797
+All education categories	Real Estate and Rental and Leasing	Personal care and service	0.088598083	43000	533
+All education categories	Real Estate and Rental and Leasing	Protective service	0.020240545	41000	115
+All education categories	Real Estate and Rental and Leasing	Sales and related	0.175337106	48000	965
+All education categories	Real Estate and Rental and Leasing	Transportation and material moving	0.019915411	36000	126
+All education categories	Retail Trade	Arts, design, entertainment, sports, and media	0.027385935	51000	500
+All education categories	Retail Trade	Building and grounds cleaning and maintenance	0.014960419	18000	247
+All education categories	Retail Trade	Business and financial operations	0.040696375	58000	777
+All education categories	Retail Trade	Computer and mathematical	0.012450636	71000	230
+All education categories	Retail Trade	Food preparation and serving related	0.022814561	17000	346
+All education categories	Retail Trade	Healthcare practitioners and technical	0.024614377	42000	515
+All education categories	Retail Trade	Installation, maintenance and repair	0.014531618	38000	265
+All education categories	Retail Trade	Management	0.040154756	88000	799
+All education categories	Retail Trade	Office and administrative support	0.149670732	21000	2617
+All education categories	Retail Trade	Production	0.02690381	24000	447
+All education categories	Retail Trade	Protective service	0.010424301	25000	165
+All education categories	Retail Trade	Sales and related	0.554750055	22000	9842
+All education categories	Retail Trade	Transportation and material moving	0.046311766	22000	783
+All education categories	Transportation and Warehousing	Architecture and engineering	0.010390813	77000	142
+All education categories	Transportation and Warehousing	Building and grounds cleaning and maintenance	0.015502502	46000	174
+All education categories	Transportation and Warehousing	Business and financial operations	0.014106958	65000	182
+All education categories	Transportation and Warehousing	Construction and extraction	0.019757318	68000	241
+All education categories	Transportation and Warehousing	Installation, maintenance and repair	0.051016125	66000	631
+All education categories	Transportation and Warehousing	Management	0.050881268	79000	619
+All education categories	Transportation and Warehousing	Office and administrative support	0.229639613	45000	2592
+All education categories	Transportation and Warehousing	Personal care and service	0.021690017	22000	216
+All education categories	Transportation and Warehousing	Production	0.011299962	55000	130
+All education categories	Transportation and Warehousing	Protective service	0.018202674	40000	183
+All education categories	Transportation and Warehousing	Sales and related	0.016265429	43000	179
+All education categories	Transportation and Warehousing	Transportation and material moving	0.524486407	39000	5507
+All education categories	Utilities	Architecture and engineering	0.101036485	81000	105
+All education categories	Utilities	Installation, maintenance and repair	0.155194932	72000	136
+All education categories	Utilities	Management	0.135752726	118000	143
+All education categories	Utilities	Office and administrative support	0.182945693	51000	180
+All education categories	Utilities	Production	0.146293569	88000	166
+All education categories	Wholesale Trade	Arts, design, entertainment, sports, and media	0.028220295	65000	148
+All education categories	Wholesale Trade	Business and financial operations	0.076874793	57000	413
+All education categories	Wholesale Trade	Management	0.101960071	97000	565
+All education categories	Wholesale Trade	Office and administrative support	0.171083073	33000	901
+All education categories	Wholesale Trade	Production	0.034865913	30000	159
+All education categories	Wholesale Trade	Sales and related	0.367256569	56000	1962
+All education categories	Wholesale Trade	Transportation and material moving	0.162971131	27000	667
+Bachelor's or advanced degree	Accommodation and Food Services	Food preparation and serving related	0.549434433	27000	1302
+Bachelor's or advanced degree	Accommodation and Food Services	Management	0.222782071	63000	554
+Bachelor's or advanced degree	Accommodation and Food Services	Office and administrative support	0.062519379	38000	162
+Bachelor's or advanced degree	Accommodation and Food Services	Sales and related	0.049431332	20000	126
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Building and grounds cleaning and maintenance	0.084205421	31000	159
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Business and financial operations	0.170936169	61000	346
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Management	0.184582966	86000	378
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Office and administrative support	0.154262325	36000	320
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Protective service	0.122398893	30000	230
+Bachelor's or advanced degree	Administrative and Support and Waste Management and Remediation Services	Sales and related	0.09265523	53000	192
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Arts, design, entertainment, sports, and media	0.329186892	51000	762
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Business and financial operations	0.10681509	63000	257
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Education, training, and library	0.06351823	44000	167
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Management	0.127166513	77000	341
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Office and administrative support	0.084625362	36000	198
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Personal care and service	0.117549675	33000	261
+Bachelor's or advanced degree	Arts, Entertainment, and Recreation	Sales and related	0.057275721	53000	149
+Bachelor's or advanced degree	Construction	Architecture and engineering	0.086687263	83000	174
+Bachelor's or advanced degree	Construction	Business and financial operations	0.078166619	84000	148
+Bachelor's or advanced degree	Construction	Construction and extraction	0.359111317	50000	629
+Bachelor's or advanced degree	Construction	Management	0.312382611	92000	600
+Bachelor's or advanced degree	Construction	Office and administrative support	0.078029418	49000	146
+Bachelor's or advanced degree	Educational Services	Arts, design, entertainment, sports, and media	0.013747229	49000	193
+Bachelor's or advanced degree	Educational Services	Business and financial operations	0.023224869	63000	345
+Bachelor's or advanced degree	Educational Services	Community and social service	0.03629425	61000	559
+Bachelor's or advanced degree	Educational Services	Computer and mathematical	0.014386535	66000	214
+Bachelor's or advanced degree	Educational Services	Education, training, and library	0.676892714	61000	10116
+Bachelor's or advanced degree	Educational Services	Healthcare practitioners and technical	0.027920254	68000	462
+Bachelor's or advanced degree	Educational Services	Life, physical, and social sciences	0.027183675	56000	392
+Bachelor's or advanced degree	Educational Services	Management	0.113658276	89000	1785
+Bachelor's or advanced degree	Educational Services	Office and administrative support	0.044526314	38000	639
+Bachelor's or advanced degree	Finance and Insurance	Business and financial operations	0.291668026	110000	4328
+Bachelor's or advanced degree	Finance and Insurance	Computer and mathematical	0.107438379	109000	1644
+Bachelor's or advanced degree	Finance and Insurance	Legal	0.027458498	203000	415
+Bachelor's or advanced degree	Finance and Insurance	Management	0.272705974	152000	4103
+Bachelor's or advanced degree	Finance and Insurance	Office and administrative support	0.093765773	59000	1367
+Bachelor's or advanced degree	Finance and Insurance	Sales and related	0.185188722	138000	2755
+Bachelor's or advanced degree	Health Care and Social Assistance	Business and financial operations	0.024597945	58000	407
+Bachelor's or advanced degree	Health Care and Social Assistance	Community and social service	0.116604071	48000	1759
+Bachelor's or advanced degree	Health Care and Social Assistance	Computer and mathematical	0.014181421	76000	227
+Bachelor's or advanced degree	Health Care and Social Assistance	Education, training, and library	0.030459102	36000	498
+Bachelor's or advanced degree	Health Care and Social Assistance	Healthcare practitioners and technical	0.466581372	81000	7426
+Bachelor's or advanced degree	Health Care and Social Assistance	Healthcare support	0.066926105	28000	943
+Bachelor's or advanced degree	Health Care and Social Assistance	Life, physical, and social sciences	0.033063233	56000	503
+Bachelor's or advanced degree	Health Care and Social Assistance	Management	0.112663769	79000	1781
+Bachelor's or advanced degree	Health Care and Social Assistance	Office and administrative support	0.081581578	38000	1231
+Bachelor's or advanced degree	Health Care and Social Assistance	Personal care and service	0.024682208	22000	335
+Bachelor's or advanced degree	Information	Arts, design, entertainment, sports, and media	0.383222575	69000	2442
+Bachelor's or advanced degree	Information	Business and financial operations	0.071141698	82000	490
+Bachelor's or advanced degree	Information	Computer and mathematical	0.075703496	87000	519
+Bachelor's or advanced degree	Information	Education, training, and library	0.021941328	54000	157
+Bachelor's or advanced degree	Information	Installation, maintenance and repair	0.019791893	82000	117
+Bachelor's or advanced degree	Information	Management	0.201910171	103000	1362
+Bachelor's or advanced degree	Information	Office and administrative support	0.086461189	44000	576
+Bachelor's or advanced degree	Information	Production	0.01404692	65000	111
+Bachelor's or advanced degree	Information	Sales and related	0.087806064	88000	582
+Bachelor's or advanced degree	Manufacturing	Architecture and engineering	0.049343498	79000	142
+Bachelor's or advanced degree	Manufacturing	Arts, design, entertainment, sports, and media	0.09915558	63000	283
+Bachelor's or advanced degree	Manufacturing	Business and financial operations	0.096269749	84000	282
+Bachelor's or advanced degree	Manufacturing	Computer and mathematical	0.042437541	77000	127
+Bachelor's or advanced degree	Manufacturing	Management	0.293252715	110000	814
+Bachelor's or advanced degree	Manufacturing	Office and administrative support	0.082642038	45000	240
+Bachelor's or advanced degree	Manufacturing	Production	0.124733796	44000	344
+Bachelor's or advanced degree	Manufacturing	Sales and related	0.137553604	85000	377
+Bachelor's or advanced degree	Other Services (except Public Administration)	Arts, design, entertainment, sports, and media	0.057369289	45000	202
+Bachelor's or advanced degree	Other Services (except Public Administration)	Business and financial operations	0.116637661	66000	401
+Bachelor's or advanced degree	Other Services (except Public Administration)	Community and social service	0.159216785	43000	604
+Bachelor's or advanced degree	Other Services (except Public Administration)	Management	0.224295781	82000	701
+Bachelor's or advanced degree	Other Services (except Public Administration)	Office and administrative support	0.106334431	39000	339
+Bachelor's or advanced degree	Other Services (except Public Administration)	Personal care and service	0.099168939	27000	294
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Architecture and engineering	0.061817223	77000	1022
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Arts, design, entertainment, sports, and media	0.112897847	62000	1742
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Business and financial operations	0.194718197	82000	3161
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Computer and mathematical	0.103137205	86000	1624
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Legal	0.195321701	136000	3111
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Life, physical, and social sciences	0.015437631	65000	261
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Management	0.176771037	107000	2840
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Office and administrative support	0.081269673	55000	1293
+Bachelor's or advanced degree	Professional, Scientific, and Technical Services	Sales and related	0.034447191	84000	546
+Bachelor's or advanced degree	Public Administration	Architecture and engineering	0.016962731	81000	114
+Bachelor's or advanced degree	Public Administration	Arts, design, entertainment, sports, and media	0.021832947	85000	119
+Bachelor's or advanced degree	Public Administration	Business and financial operations	0.11989633	77000	672
+Bachelor's or advanced degree	Public Administration	Community and social service	0.05398322	55000	269
+Bachelor's or advanced degree	Public Administration	Computer and mathematical	0.043676166	80000	258
+Bachelor's or advanced degree	Public Administration	Healthcare practitioners and technical	0.028074356	72000	143
+Bachelor's or advanced degree	Public Administration	Legal	0.107232057	95000	606
+Bachelor's or advanced degree	Public Administration	Life, physical, and social sciences	0.024315131	77000	149
+Bachelor's or advanced degree	Public Administration	Management	0.137552361	95000	739
+Bachelor's or advanced degree	Public Administration	Office and administrative support	0.128662719	52000	695
+Bachelor's or advanced degree	Public Administration	Protective service	0.282936441	88000	1472
+Bachelor's or advanced degree	Real Estate and Rental and Leasing	Business and financial operations	0.09154233	74000	231
+Bachelor's or advanced degree	Real Estate and Rental and Leasing	Management	0.308351505	87000	718
+Bachelor's or advanced degree	Real Estate and Rental and Leasing	Office and administrative support	0.117583261	42000	261
+Bachelor's or advanced degree	Real Estate and Rental and Leasing	Sales and related	0.293530438	66000	563
+Bachelor's or advanced degree	Retail Trade	Arts, design, entertainment, sports, and media	0.067216773	62000	352
+Bachelor's or advanced degree	Retail Trade	Business and financial operations	0.107782684	65000	588
+Bachelor's or advanced degree	Retail Trade	Computer and mathematical	0.031023365	82000	165
+Bachelor's or advanced degree	Retail Trade	Healthcare practitioners and technical	0.051577856	72000	325
+Bachelor's or advanced degree	Retail Trade	Management	0.100454318	102000	550
+Bachelor's or advanced degree	Retail Trade	Office and administrative support	0.098975611	38000	519
+Bachelor's or advanced degree	Retail Trade	Sales and related	0.482118973	42000	2527
+Bachelor's or advanced degree	Transportation and Warehousing	Architecture and engineering	0.042120816	77000	113
+Bachelor's or advanced degree	Transportation and Warehousing	Business and financial operations	0.047242901	70000	125
+Bachelor's or advanced degree	Transportation and Warehousing	Installation, maintenance and repair	0.046261673	66000	112
+Bachelor's or advanced degree	Transportation and Warehousing	Management	0.106503002	91000	268
+Bachelor's or advanced degree	Transportation and Warehousing	Office and administrative support	0.183277453	51000	444
+Bachelor's or advanced degree	Transportation and Warehousing	Transportation and material moving	0.455657214	46000	1022
+Bachelor's or advanced degree	Utilities	Management	0.263552718	124000	103
+Bachelor's or advanced degree	Wholesale Trade	Arts, design, entertainment, sports, and media	0.051641015	72000	110
+Bachelor's or advanced degree	Wholesale Trade	Business and financial operations	0.134777995	60000	291
+Bachelor's or advanced degree	Wholesale Trade	Management	0.16184138	105000	361
+Bachelor's or advanced degree	Wholesale Trade	Office and administrative support	0.106862352	41000	236
+Bachelor's or advanced degree	Wholesale Trade	Sales and related	0.465120068	75000	1011
+High school or equivalent, no college	Accommodation and Food Services	Building and grounds cleaning and maintenance	0.104847749	33000	412
+High school or equivalent, no college	Accommodation and Food Services	Food preparation and serving related	0.632138313	21000	2200
+High school or equivalent, no college	Accommodation and Food Services	Management	0.065620902	46000	264
+High school or equivalent, no college	Accommodation and Food Services	Office and administrative support	0.036225535	25000	148
+High school or equivalent, no college	Accommodation and Food Services	Sales and related	0.082333058	13000	315
+High school or equivalent, no college	Accommodation and Food Services	Transportation and material moving	0.033047448	17000	100
+High school or equivalent, no college	Administrative and Support and Waste Management and Remediation Services	Building and grounds cleaning and maintenance	0.388805707	28000	753
+High school or equivalent, no college	Administrative and Support and Waste Management and Remediation Services	Office and administrative support	0.101604316	25000	240
+High school or equivalent, no college	Administrative and Support and Waste Management and Remediation Services	Protective service	0.279960452	24000	572
+High school or equivalent, no college	Administrative and Support and Waste Management and Remediation Services	Transportation and material moving	0.066619484	38000	138
+High school or equivalent, no college	Arts, Entertainment, and Recreation	Building and grounds cleaning and maintenance	0.161479953	23000	105
+High school or equivalent, no college	Arts, Entertainment, and Recreation	Personal care and service	0.203841447	15000	132
+High school or equivalent, no college	Construction	Construction and extraction	0.792636213	41000	2574
+High school or equivalent, no college	Construction	Installation, maintenance and repair	0.046515708	48000	159
+High school or equivalent, no college	Construction	Management	0.054653708	66000	199
+High school or equivalent, no college	Construction	Office and administrative support	0.037606196	33000	150
+High school or equivalent, no college	Educational Services	Building and grounds cleaning and maintenance	0.148100534	37000	270
+High school or equivalent, no college	Educational Services	Education, training, and library	0.372081148	20000	738
+High school or equivalent, no college	Educational Services	Food preparation and serving related	0.059521517	22000	116
+High school or equivalent, no college	Educational Services	Office and administrative support	0.156969635	29000	365
+High school or equivalent, no college	Finance and Insurance	Business and financial operations	0.103949215	59000	146
+High school or equivalent, no college	Finance and Insurance	Management	0.12508613	61000	176
+High school or equivalent, no college	Finance and Insurance	Office and administrative support	0.536295776	39000	712
+High school or equivalent, no college	Finance and Insurance	Sales and related	0.137367615	48000	175
+High school or equivalent, no college	Health Care and Social Assistance	Building and grounds cleaning and maintenance	0.062890639	31000	409
+High school or equivalent, no college	Health Care and Social Assistance	Community and social service	0.028142739	32000	183
+High school or equivalent, no college	Health Care and Social Assistance	Education, training, and library	0.01604025	21000	123
+High school or equivalent, no college	Health Care and Social Assistance	Food preparation and serving related	0.026335791	29000	180
+High school or equivalent, no college	Health Care and Social Assistance	Healthcare practitioners and technical	0.073419219	43000	497
+High school or equivalent, no college	Health Care and Social Assistance	Healthcare support	0.419565711	25000	2681
+High school or equivalent, no college	Health Care and Social Assistance	Management	0.023781923	55000	165
+High school or equivalent, no college	Health Care and Social Assistance	Office and administrative support	0.156850748	34000	1118
+High school or equivalent, no college	Health Care and Social Assistance	Personal care and service	0.128587306	19000	845
+High school or equivalent, no college	Health Care and Social Assistance	Transportation and material moving	0.017367975	29000	122
+High school or equivalent, no college	Information	Installation, maintenance and repair	0.161856817	62000	112
+High school or equivalent, no college	Information	Office and administrative support	0.297395071	37000	197
+High school or equivalent, no college	Manufacturing	Management	0.068599677	55000	134
+High school or equivalent, no college	Manufacturing	Office and administrative support	0.128439449	31000	288
+High school or equivalent, no college	Manufacturing	Production	0.496177061	27000	907
+High school or equivalent, no college	Manufacturing	Sales and related	0.060631775	23000	111
+High school or equivalent, no college	Manufacturing	Transportation and material moving	0.107877823	28000	190
+High school or equivalent, no college	Other Services (except Public Administration)	Building and grounds cleaning and maintenance	0.111168101	20000	264
+High school or equivalent, no college	Other Services (except Public Administration)	Installation, maintenance and repair	0.139921828	30000	321
+High school or equivalent, no college	Other Services (except Public Administration)	Office and administrative support	0.083863492	27000	246
+High school or equivalent, no college	Other Services (except Public Administration)	Personal care and service	0.35416583	20000	828
+High school or equivalent, no college	Other Services (except Public Administration)	Production	0.070444469	22000	159
+High school or equivalent, no college	Other Services (except Public Administration)	Transportation and material moving	0.090058552	23000	189
+High school or equivalent, no college	Professional, Scientific, and Technical Services	Office and administrative support	0.494417965	38000	651
+High school or equivalent, no college	Public Administration	Office and administrative support	0.298201007	41000	407
+High school or equivalent, no college	Public Administration	Protective service	0.336036772	55000	463
+High school or equivalent, no college	Real Estate and Rental and Leasing	Building and grounds cleaning and maintenance	0.272182611	32000	371
+High school or equivalent, no college	Real Estate and Rental and Leasing	Management	0.178529138	53000	259
+High school or equivalent, no college	Real Estate and Rental and Leasing	Office and administrative support	0.140460054	35000	221
+High school or equivalent, no college	Real Estate and Rental and Leasing	Personal care and service	0.117235645	43000	190
+High school or equivalent, no college	Real Estate and Rental and Leasing	Sales and related	0.097528407	33000	135
+High school or equivalent, no college	Retail Trade	Food preparation and serving related	0.027298118	18000	111
+High school or equivalent, no college	Retail Trade	Office and administrative support	0.18584542	21000	828
+High school or equivalent, no college	Retail Trade	Production	0.038873644	26000	163
+High school or equivalent, no college	Retail Trade	Sales and related	0.573342153	20000	2692
+High school or equivalent, no college	Retail Trade	Transportation and material moving	0.062983471	23000	296
+High school or equivalent, no college	Transportation and Warehousing	Construction and extraction	0.02612778	70000	103
+High school or equivalent, no college	Transportation and Warehousing	Installation, maintenance and repair	0.05461752	66000	227
+High school or equivalent, no college	Transportation and Warehousing	Management	0.025783608	58000	101
+High school or equivalent, no college	Transportation and Warehousing	Office and administrative support	0.230444094	43000	864
+High school or equivalent, no college	Transportation and Warehousing	Transportation and material moving	0.561381724	38000	1892
+High school or equivalent, no college	Wholesale Trade	Office and administrative support	0.21410769	31000	251
+High school or equivalent, no college	Wholesale Trade	Sales and related	0.283652217	41000	338
+High school or equivalent, no college	Wholesale Trade	Transportation and material moving	0.27921721	31000	271
+Less than high school	Accommodation and Food Services	Building and grounds cleaning and maintenance	0.101965791	24000	365
+Less than high school	Accommodation and Food Services	Food preparation and serving related	0.693936995	19000	2236
+Less than high school	Accommodation and Food Services	Management	0.025071303	41000	101
+Less than high school	Accommodation and Food Services	Sales and related	0.078411451	12000	294
+Less than high school	Accommodation and Food Services	Transportation and material moving	0.05727092	16000	182
+Less than high school	Administrative and Support and Waste Management and Remediation Services	Building and grounds cleaning and maintenance	0.603082816	22000	694
+Less than high school	Administrative and Support and Waste Management and Remediation Services	Protective service	0.170478619	19000	215
+Less than high school	Arts, Entertainment, and Recreation	Building and grounds cleaning and maintenance	0.398370753	18000	111
+Less than high school	Construction	Construction and extraction	0.888159246	26000	1747
+Less than high school	Educational Services	Building and grounds cleaning and maintenance	0.210611937	32000	128
+Less than high school	Educational Services	Education, training, and library	0.339532523	17000	267
+Less than high school	Finance and Insurance	Office and administrative support	0.422272496	33000	101
+Less than high school	Health Care and Social Assistance	Building and grounds cleaning and maintenance	0.080222682	28000	259
+Less than high school	Health Care and Social Assistance	Food preparation and serving related	0.035978921	23000	126
+Less than high school	Health Care and Social Assistance	Healthcare practitioners and technical	0.021941266	41000	101
+Less than high school	Health Care and Social Assistance	Healthcare support	0.534066462	20000	1826
+Less than high school	Health Care and Social Assistance	Office and administrative support	0.065800935	27000	239
+Less than high school	Health Care and Social Assistance	Personal care and service	0.185262749	15000	669
+Less than high school	Manufacturing	Production	0.67478084	19000	986
+Less than high school	Manufacturing	Transportation and material moving	0.12782017	19000	175
+Less than high school	Other Services (except Public Administration)	Building and grounds cleaning and maintenance	0.164783728	14000	258
+Less than high school	Other Services (except Public Administration)	Installation, maintenance and repair	0.138711576	26000	215
+Less than high school	Other Services (except Public Administration)	Personal care and service	0.339800461	15000	544
+Less than high school	Other Services (except Public Administration)	Production	0.123186876	20000	191
+Less than high school	Other Services (except Public Administration)	Transportation and material moving	0.111237888	20000	157
+Less than high school	Professional, Scientific, and Technical Services	Office and administrative support	0.406251013	22000	121
+Less than high school	Real Estate and Rental and Leasing	Building and grounds cleaning and maintenance	0.4439583	29000	282
+Less than high school	Real Estate and Rental and Leasing	Personal care and service	0.128072166	34000	101
+Less than high school	Retail Trade	Building and grounds cleaning and maintenance	0.041736074	18000	103
+Less than high school	Retail Trade	Food preparation and serving related	0.060681957	17000	125
+Less than high school	Retail Trade	Office and administrative support	0.161703944	18000	421
+Less than high school	Retail Trade	Production	0.055450498	20000	140
+Less than high school	Retail Trade	Sales and related	0.505302595	16000	1303
+Less than high school	Retail Trade	Transportation and material moving	0.109057389	20000	269
+Less than high school	Transportation and Warehousing	Office and administrative support	0.132788791	28000	196
+Less than high school	Transportation and Warehousing	Transportation and material moving	0.717639501	27000	902
+Less than high school	Wholesale Trade	Office and administrative support	0.162653127	21000	125
+Less than high school	Wholesale Trade	Sales and related	0.194966848	33000	139
+Less than high school	Wholesale Trade	Transportation and material moving	0.425919992	22000	220
+Some college or Associate degree	Accommodation and Food Services	Building and grounds cleaning and maintenance	0.04621598	34000	170
+Some college or Associate degree	Accommodation and Food Services	Food preparation and serving related	0.587514284	21000	1883
+Some college or Associate degree	Accommodation and Food Services	Management	0.11933808	50000	421
+Some college or Associate degree	Accommodation and Food Services	Office and administrative support	0.074486836	26000	260
+Some college or Associate degree	Accommodation and Food Services	Sales and related	0.074840742	12000	261
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	Building and grounds cleaning and maintenance	0.202084557	27000	351
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	Management	0.077429413	57000	153
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	Office and administrative support	0.18657079	33000	350
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	Protective service	0.257413612	26000	465
+Some college or Associate degree	Administrative and Support and Waste Management and Remediation Services	Sales and related	0.054974165	32000	114
+Some college or Associate degree	Arts, Entertainment, and Recreation	Arts, design, entertainment, sports, and media	0.200343418	39000	174
+Some college or Associate degree	Arts, Entertainment, and Recreation	Office and administrative support	0.102698283	22000	111
+Some college or Associate degree	Arts, Entertainment, and Recreation	Personal care and service	0.20156991	15000	225
+Some college or Associate degree	Construction	Construction and extraction	0.692907329	53000	1690
+Some college or Associate degree	Construction	Installation, maintenance and repair	0.058734925	44000	156
+Some college or Associate degree	Construction	Management	0.099349535	71000	273
+Some college or Associate degree	Construction	Office and administrative support	0.068351888	40000	186
+Some college or Associate degree	Educational Services	Building and grounds cleaning and maintenance	0.043296726	41000	129
+Some college or Associate degree	Educational Services	Education, training, and library	0.434626125	25000	1416
+Some college or Associate degree	Educational Services	Management	0.061940903	49000	194
+Some college or Associate degree	Educational Services	Office and administrative support	0.234388148	33000	821
+Some college or Associate degree	Educational Services	Personal care and service	0.034801391	16000	114
+Some college or Associate degree	Finance and Insurance	Business and financial operations	0.140751591	63000	422
+Some college or Associate degree	Finance and Insurance	Computer and mathematical	0.062199813	88000	190
+Some college or Associate degree	Finance and Insurance	Management	0.162039713	78000	486
+Some college or Associate degree	Finance and Insurance	Office and administrative support	0.450352431	41000	1235
+Some college or Associate degree	Finance and Insurance	Sales and related	0.136090842	55000	400
+Some college or Associate degree	Health Care and Social Assistance	Building and grounds cleaning and maintenance	0.019671644	32000	169
+Some college or Associate degree	Health Care and Social Assistance	Business and financial operations	0.014551073	45000	135
+Some college or Associate degree	Health Care and Social Assistance	Community and social service	0.048211421	35000	402
+Some college or Associate degree	Health Care and Social Assistance	Education, training, and library	0.033504239	21000	296
+Some college or Associate degree	Health Care and Social Assistance	Food preparation and serving related	0.01235614	28000	108
+Some college or Associate degree	Health Care and Social Assistance	Healthcare practitioners and technical	0.230059867	56000	2171
+Some college or Associate degree	Health Care and Social Assistance	Healthcare support	0.261955992	29000	2186
+Some college or Associate degree	Health Care and Social Assistance	Management	0.04658544	58000	422
+Some college or Associate degree	Health Care and Social Assistance	Office and administrative support	0.20884782	35000	1868
+Some college or Associate degree	Health Care and Social Assistance	Personal care and service	0.078482505	19000	642
+Some college or Associate degree	Health Care and Social Assistance	Protective service	0.013001266	41000	114
+Some college or Associate degree	Information	Arts, design, entertainment, sports, and media	0.200738314	61000	314
+Some college or Associate degree	Information	Installation, maintenance and repair	0.104863933	77000	175
+Some college or Associate degree	Information	Management	0.131348539	86000	210
+Some college or Associate degree	Information	Office and administrative support	0.223797315	38000	355
+Some college or Associate degree	Information	Sales and related	0.114050299	43000	173
+Some college or Associate degree	Manufacturing	Management	0.137073804	88000	231
+Some college or Associate degree	Manufacturing	Office and administrative support	0.176915926	41000	312
+Some college or Associate degree	Manufacturing	Production	0.334942263	31000	513
+Some college or Associate degree	Manufacturing	Sales and related	0.082850737	44000	152
+Some college or Associate degree	Other Services (except Public Administration)	Building and grounds cleaning and maintenance	0.068883923	21000	134
+Some college or Associate degree	Other Services (except Public Administration)	Community and social service	0.071315893	29000	156
+Some college or Associate degree	Other Services (except Public Administration)	Installation, maintenance and repair	0.089769291	42000	171
+Some college or Associate degree	Other Services (except Public Administration)	Management	0.051186407	63000	114
+Some college or Associate degree	Other Services (except Public Administration)	Office and administrative support	0.144895327	32000	327
+Some college or Associate degree	Other Services (except Public Administration)	Personal care and service	0.301975155	20000	535
+Some college or Associate degree	Other Services (except Public Administration)	Transportation and material moving	0.063633824	27000	103
+Some college or Associate degree	Professional, Scientific, and Technical Services	Arts, design, entertainment, sports, and media	0.094718781	53000	264
+Some college or Associate degree	Professional, Scientific, and Technical Services	Business and financial operations	0.084082448	44000	221
+Some college or Associate degree	Professional, Scientific, and Technical Services	Computer and mathematical	0.113448996	73000	294
+Some college or Associate degree	Professional, Scientific, and Technical Services	Legal	0.083155644	47000	230
+Some college or Associate degree	Professional, Scientific, and Technical Services	Management	0.122939348	77000	365
+Some college or Associate degree	Professional, Scientific, and Technical Services	Office and administrative support	0.35386706	44000	1027
+Some college or Associate degree	Public Administration	Business and financial operations	0.031640327	65000	114
+Some college or Associate degree	Public Administration	Healthcare practitioners and technical	0.028115323	53000	104
+Some college or Associate degree	Public Administration	Management	0.0346547	68000	136
+Some college or Associate degree	Public Administration	Office and administrative support	0.207151665	44000	764
+Some college or Associate degree	Public Administration	Protective service	0.549698327	81000	1924
+Some college or Associate degree	Real Estate and Rental and Leasing	Building and grounds cleaning and maintenance	0.13979231	40000	196
+Some college or Associate degree	Real Estate and Rental and Leasing	Management	0.241603755	56000	335
+Some college or Associate degree	Real Estate and Rental and Leasing	Office and administrative support	0.171158114	38000	278
+Some college or Associate degree	Real Estate and Rental and Leasing	Personal care and service	0.123477633	42000	178
+Some college or Associate degree	Real Estate and Rental and Leasing	Sales and related	0.148844222	41000	227
+Some college or Associate degree	Retail Trade	Business and financial operations	0.022263143	39000	126
+Some college or Associate degree	Retail Trade	Healthcare practitioners and technical	0.023834955	23000	141
+Some college or Associate degree	Retail Trade	Management	0.022855721	63000	149
+Some college or Associate degree	Retail Trade	Office and administrative support	0.159247841	17000	849
+Some college or Associate degree	Retail Trade	Sales and related	0.631947047	20000	3320
+Some college or Associate degree	Retail Trade	Transportation and material moving	0.033542859	24000	160
+Some college or Associate degree	Transportation and Warehousing	Construction and extraction	0.024137508	69000	102
+Some college or Associate degree	Transportation and Warehousing	Installation, maintenance and repair	0.059056867	71000	241
+Some college or Associate degree	Transportation and Warehousing	Management	0.055460684	75000	229
+Some college or Associate degree	Transportation and Warehousing	Office and administrative support	0.291493945	46000	1088
+Some college or Associate degree	Transportation and Warehousing	Transportation and material moving	0.457958591	48000	1691
+Some college or Associate degree	Wholesale Trade	Management	0.09057005	78000	114
+Some college or Associate degree	Wholesale Trade	Office and administrative support	0.250774399	35000	289
+Some college or Associate degree	Wholesale Trade	Sales and related	0.380033596	51000	474
+Some college or Associate degree	Wholesale Trade	Transportation and material moving	0.133435559	38000	134
