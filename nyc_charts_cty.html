@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="nyc_chart.css">
+		<title>New York City Labor Market</title>
+	</head>
+	<body>
+		<script src="http://code.jquery.com/jquery-1.7.1.min.js" type="text/javascript"></script>
+		<script src="http://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+<!-- 		<script src="http://code.highcharts.com/modules/exporting.js" type="text/javascript"></script> -->
+		<script src="http://code.highcharts.com/modules/data.js" type="text/javascript"></script>
+		<script src="nyc_charts_cty.js" type="text/javascript"></script>
+    <h1>New York City Labor Market</h1>
+    <ul class="nav-menu">
+      <li><a href="nyc_charts_ed.html">Education comparison</a></li>
+      <li><a href="nyc_charts_cty.html">Boroughs comparison</a></li>
+    </ul>
+    <div id = "view2">
+      <div id = "selectors2">
+        <form id = "sel_ed">
+          <legend>Select an education level:</legend>
+          <select>
+            <option value = "All">All education categories</option>
+            <option value = "lths">Less than high school</option>
+            <option value = "hs">High school or equivalent, no college</option>
+            <option value = "scaa">Some college or Associate degree</option>
+            <option value = "baplus">Bachelor's or advanced degree</option>
+            <option value = "na">Not available</option>
+          </select>    
+        </form>
+        <form id = "sel_ind2">
+          <legend>Select an industry:</legend>
+          <select>
+            <option value = "accfood">Accommodation and Food Services</option>
+            <option value = "admin">Administrative and Support and Waste Management and Remediation Services</option>
+            <!-- <option value = "ag">Agriculture, Forestry, Fishing and Hunting</option> -->
+            <option value = "arts">Arts, Entertainment, and Recreation</option>
+            <option value = "constr">Construction</option>
+            <option value = "ed">Educational Services</option>
+            <option value = "finance">Finance and Insurance</option>
+            <option value = "health">Health Care and Social Assistance</option>
+            <option value = "info">Information</option>
+            <option value = "manuf">Manufacturing</option>
+            <option value = "mgmt">Management of Companies and Enterprises</option>
+            <!-- <option value = "mining">Mining, Quarrying, and Oil and Gas Extraction</option> -->
+            <option value = "othsvcs">Other Services (except Public Administration)</option>
+            <option value = "prof">Professional, Scientific, and Technical Services</option>
+            <option value = "pubadmin">Public Administration</option>
+            <option value = "realestate">Real Estate and Rental and Leasing</option>
+            <option value = "retail">Retail Trade</option>
+            <option value = "trans">Transportation and Warehousing</option>
+            <option value = "util">Utilities</option>
+            <option value = "wholesale">Wholesale Trade</option>
+          </select>    
+        </form>
+      </div>
+      <p>Click on legend to toggle series on or off</p>
+      <div id = "div_num2">
+        <div id="div_empnum2">
+        </div>
+        <div id="div_hirenum2">
+        </div>
+      </div>
+      <div id = "div_earn2">
+        <div id="div_empearn2">
+        </div>
+        <div id="div_hirearn2">
+        </div>
+      </div>
+    </div>
+    </div>
+    <p id = "footnote"><b>Employment (stable) is an estimate of stable jobs, i.e., the number of jobs that are held on both the first and last day of the quarter with the same employer.</b><br>
+    <b>Hires (stable) is an estimate number of workers that started a job that lasted at least one full quarter with a given employer.</b><br>
+    <em>Source: </em>Employment and hires data: U.S. Census Bureau, <em>Quality Workforce Indicators</em>. 
+    </p>
+	</body>
+</html>

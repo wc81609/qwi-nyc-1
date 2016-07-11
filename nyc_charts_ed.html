@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="nyc_chart.css">
+		<title>New York City Labor Market</title>
+	</head>
+	<body>
+		<script src="http://code.jquery.com/jquery-1.7.1.min.js" type="text/javascript"></script>
+		<script src="http://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+<!-- 		<script src="http://code.highcharts.com/modules/exporting.js" type="text/javascript"></script> -->
+   	<script src="https://code.highcharts.com/modules/treemap.js"></script>
+		<script src="http://code.highcharts.com/modules/data.js" type="text/javascript"></script>
+		<script src="nyc_charts_ed.js" type="text/javascript"></script>
+    <h1>New York City Labor Market</h1>
+     <ul class="nav-menu">
+      <li><a href="nyc_charts_ed.html">Education comparison</a></li>
+      <li><a href="nyc_charts_cty.html">Boroughs comparison</a></li>
+    </ul>
+    <div id = "view1">
+      <div id = "selectors">
+        <form id = "sel_cty">
+          <legend>Select a county/borough:</legend>
+          <select>
+            <option value = "All">All counties/boroughs</option>
+            <option value = "Bronx">Bronx/The Bronx</option>
+            <option value = "Kings">Kings/Brooklyn</option>
+            <option value = "NewYork">New York/Manhattan</option>
+            <option value = "Queens">Queens/Queens</option>
+            <option value = "Richmond">Richmond/State Island</option>
+          </select>    
+        </form>
+        <form id = "sel_ind">
+          <legend>Select an industry:</legend>
+          <select>
+            <option value = "accfood">Accommodation and Food Services</option>
+            <option value = "admin">Administrative and Support and Waste Management and Remediation Services</option>
+            <!-- <option value = "ag">Agriculture, Forestry, Fishing and Hunting</option> -->
+            <option value = "arts">Arts, Entertainment, and Recreation</option>
+            <option value = "constr">Construction</option>
+            <option value = "ed">Educational Services</option>
+            <option value = "finance">Finance and Insurance</option>
+            <option value = "health">Health Care and Social Assistance</option>
+            <option value = "info">Information</option>
+            <option value = "manuf">Manufacturing</option>
+            <option value = "mgmt">Management of Companies and Enterprises</option>
+            <!-- <option value = "mining">Mining, Quarrying, and Oil and Gas Extraction</option> -->
+            <option value = "othsvcs">Other Services (except Public Administration)</option>
+            <option value = "prof">Professional, Scientific, and Technical Services</option>
+            <option value = "pubadmin">Public Administration</option>
+            <option value = "realestate">Real Estate and Rental and Leasing</option>
+            <option value = "retail">Retail Trade</option>
+            <option value = "trans">Transportation and Warehousing</option>
+            <option value = "util">Utilities</option>
+            <option value = "wholesale">Wholesale Trade</option>
+          </select>    
+        </form>
+      </div>
+      <p>Click on legend to toggle series on or off</p>
+      <div id = "div_num">
+        <div id="div_empnum">
+        </div>
+        <div id="div_hirenum">
+        </div>
+      </div>
+      <div id = "div_earn">
+        <div id="div_empearn">
+        </div>
+        <div id="div_hirearn">
+        </div>
+      </div>
+      <div id = "div_occmap">
+      </div>
+    </div>
+    <p id = "footnote"><b>Employment (stable) is an estimate of stable jobs, i.e., the number of jobs that are held on both the first and last day of the quarter with the same employer.</b><br>
+    <b>Hires (stable) is an estimate number of workers that started a job that lasted at least one full quarter with a given employer.</b><br>
+    <em>Source: </em>Employment and hires data: U.S. Census Bureau, <em>Quality Workforce Indicators</em>. Data and earnings for occupations by education level: U.S. Census Bureau, 
+    <em>American Community Suvrvey micro data 2009-2014</em>. Percentages within each education level do not sum to 100 percent due to sample size exclusions.
+    </p>
+	</body>
+</html>

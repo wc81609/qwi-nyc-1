@@ -1,7 +1,37 @@
 body {
-  font-family: Georgia, Arial, sans;
+  font-family: Arial, Georgia, sans;
   background-color: #FFFFFF;
   margin-left: 25px;
+}
+
+ul.nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 90%;
+}
+
+ul.nav-menu li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+ul.nav-menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.nav-menu li a:hover:not(.active) {
+  background-color: #111;
+}
+
+ul.nav-menu li a.active {
+  background-color: #ffad33;
 }
 
 #footnote {
@@ -10,8 +40,10 @@ body {
   line-height: 1.5em;
   font-family: Verdana, serif;
 }
-
-#view1 p {
+#view1, #view2 {
+  clear: both;
+}
+#view1 p, #view2 p {
   font-size: 0.9em;
   font-style: italic;
   font-weight: bold;
@@ -21,7 +53,7 @@ body {
 #div_empnum, #div_hirenum , #div_empearn, #div_hirearn,
 #div_empnum2, #div_hirenum2 , #div_empearn2, #div_hirearn2 {
   position: relative;
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 10px;
   padding-right: 10px;
   border-width: 1px;
@@ -56,12 +88,13 @@ body {
 #div_earn2 {
   width: 40%;
   float: left;
+  padding-right: 10px;
 }
 
 /* Styles for selectors */
 #selectors, #selectors2 {
   background-color: #f0f0e1;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 20px;
   width: 40%;
   border-radius: 20px;
@@ -92,70 +125,4 @@ body {
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   font-size: 0.9em;
-}
-
-/* Styles for tabs */
-ul.tabs
-{
-    padding: 7px 0;
-    font-size: 0;
-    margin:0;
-    list-style-type: none;
-    text-align: left; /*set to left, center, or right to align the tabs as desired*/
-}
-        
-ul.tabs li
-{
-    display: inline;
-    margin: 0;
-    margin-right:3px; /*distance between tabs*/
-}
-        
-ul.tabs li a
-{
-    font: normal 12px Verdana;
-    text-decoration: none;
-    position: relative;
-    padding: 7px 16px;
-    border: 1px solid #CCC;
-    border-bottom-color:#B7B7B7;
-    color: #000;
-    background: #F0F0F0 url(tabbg.gif) 0 0 repeat-x;
-    border-radius: 3px 3px 0 0;
-    outline:none;
-}
-        
-ul.tabs li a:visited
-{
-    color: #000;
-}
-        
-ul.tabs li a:hover
-{
-    border: 1px solid #B7B7B7;
-    background:#F0F0F0 url(tabbg.gif) 0 -36px repeat-x;
-}
-        
-ul.tabs li.selected a, ul.tabs li.selected a:hover
-{
-    position: relative;
-    top: 0px;
-    font-weight:bold;
-    background: white;
-    border: 1px solid #B7B7B7;
-    border-bottom-color: white;
-}
-        
-        
-ul.tabs li.selected a:hover
-{
-    text-decoration: none;
-}
-     
-
-div.tabcontents
-{
-    border: 1px solid #B7B7B7; padding: 30px;
-    background-color:#FFF;
-    border-radius: 0 3px 3px 3px;
 }
